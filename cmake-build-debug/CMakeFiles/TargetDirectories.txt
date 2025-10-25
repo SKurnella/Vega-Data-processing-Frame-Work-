@@ -1,0 +1,4 @@
+/Users/sriramkurnella/CLionProjects/vega/cmake-build-debug/CMakeFiles/vegaDataframe.dir
+/Users/sriramkurnella/CLionProjects/vega/cmake-build-debug/CMakeFiles/vega.dir
+/Users/sriramkurnella/CLionProjects/vega/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sriramkurnella/CLionProjects/vega/cmake-build-debug/CMakeFiles/rebuild_cache.dir

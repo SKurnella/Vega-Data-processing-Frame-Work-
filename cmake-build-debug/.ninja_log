@@ -1,0 +1,25 @@
+# ninja log v6
+5	1772	1758271392677761395	CMakeFiles/vegaDataframe.dir/vegaDataFrame/vegaDataframe.cpp.o	999be2de598c1b0c
+1772	3639	1758271394444677578	libvegaDataframe.a	c6b013ba83e788ee
+5	62	1758270987537782968	CMakeFiles/vega.dir/Users/sriramkurnella/CLionProjects/medha/medhaFrameWork/medha.cpp.o	7f9abba988ed5efb
+6	812	1758271392678500020	CMakeFiles/vega.dir/main.cpp.o	1bf53ebe1ca40bd3
+3639	3774	1758271396311503128	vega	dd2249ed6068ab98
+5	1748	1758270987537568842	CMakeFiles/vega.dir/vegaDataFrame/vegaDataframe.cpp.o	c6c458132612529b
+3	130	1758292483029164765	build.ninja	cc82a7f953dbab30
+3	130	1758292483028335020	/Users/sriramkurnella/CLionProjects/vega/cmake-build-debug/cmake_install.cmake	cc82a7f953dbab30
+10	995	1758292681635214762	CMakeFiles/vega.dir/main.cpp.o	1bf53ebe1ca40bd3
+8	1972	1758292681633232857	CMakeFiles/vegaDataframe.dir/vegaDataFrame/vegaDataframe.cpp.o	999be2de598c1b0c
+1972	2034	1758292683597374269	libvegaDataframe.a	c6b013ba83e788ee
+2034	2170	1758292683658852695	vega	dd2249ed6068ab98
+11	1045	1758292749696831320	CMakeFiles/vega.dir/main.cpp.o	1bf53ebe1ca40bd3
+1045	1167	1758292750730869258	vega	dd2249ed6068ab98
+9	1016	1758292786432851750	CMakeFiles/vega.dir/main.cpp.o	1bf53ebe1ca40bd3
+1016	1140	1758292787439852392	vega	dd2249ed6068ab98
+8	1080	1758292828358446012	CMakeFiles/vega.dir/main.cpp.o	1bf53ebe1ca40bd3
+1080	1200	1758292829430163519	vega	dd2249ed6068ab98
+7	924	1758292845524571473	CMakeFiles/vega.dir/main.cpp.o	1bf53ebe1ca40bd3
+924	977	1758292846441252651	vega	dd2249ed6068ab98
+12	1004	1758292981486591373	CMakeFiles/vega.dir/main.cpp.o	1bf53ebe1ca40bd3
+1004	1126	1758292982478404818	vega	dd2249ed6068ab98
+8	879	1758297002742613930	CMakeFiles/vega.dir/main.cpp.o	1bf53ebe1ca40bd3
+879	1028	1758297003613064982	vega	dd2249ed6068ab98
